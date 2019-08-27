@@ -1,0 +1,10 @@
+Adding 1 to the last element in integer array.
+Ex: 
+ [1,2,3] => [1,2,4]
+
+ worst scenario
+ 	[9,9] => [1, 0 ,0]
+
+ Space complexity = O(n)
+ Time complexity = O(n)
+ 	Where n is the size of array
